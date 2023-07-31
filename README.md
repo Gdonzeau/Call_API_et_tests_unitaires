@@ -1,7 +1,7 @@
 # Call_API_et_tests_unitaires
 
 ## Présentation
-Il s'agit d'u'ne application qui permet d'aller chercher des nouvelles sur un moteur de recherche et d'afficher le résultat sous forme de cellules.
+Il s'agit d'une application qui permet d'aller chercher des nouvelles sur un moteur de recherche et d'afficher le résultat sous forme de cellules.
 
 <img src="https://github.com/Gdonzeau/Call_API_et_tests_unitaires/blob/main/CallAPI01.PNG" width="200" title= "image01" hspace="20"> <img src="https://github.com/Gdonzeau/Call_API_et_tests_unitaires/blob/main/CallAPI02.PNG" width="200" title= "image01" hspace="20"> <img src="https://github.com/Gdonzeau/Call_API_et_tests_unitaires/blob/main/CallAPI03.PNG" width="200" title= "image01" hspace="20">
 
