@@ -1,0 +1,294 @@
+{
+    "status": "ok",
+    "totalResults": 22,
+    "articles": [
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Andrew Tarantola",
+            "title": "Hitting the Books: Renee Descartes had his best revelations while baked in an oven",
+            "description": "Some of us do our best thinking in the shower, others do it while on the toilet. Renee Descartes, he pondered most deeply while ensconced in a baker's oven. The man simply needed to be convinced of the oven's existence before climbing in. Such are the quirks …",
+            "url": "https://www.engadget.com/hitting-the-books-edisons-ghosts-katie-spalding-little-brown-and-company-143030441.html",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/TFKHzItWyKOvq2mDosXXVw--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-05/e411dc00-f8b8-11ed-af6d-1fca0c310afe.cf.jpg",
+            "publishedAt": "2023-05-28T14:30:30Z",
+            "content": "Some of us do our best thinking in the shower, others do it while on the toilet. Renee Descartes, he pondered most deeply while ensconced in a baker's oven. The man simply needed to be convinced of t… [+21119 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Lily Hay Newman, Andy Greenberg",
+            "title": "9 Years After the Mt. Gox Hack, Feds Indict Alleged Culprits",
+            "description": "Plus: Instagram’s CSAM network gets exposed, Clop hackers claim credit for MOVEit Transfer exploit, and a $35 million crypto heist has North Korean ties.",
+            "url": "https://www.wired.com/story/mt-gox-indictment-security-roundup/",
+            "urlToImage": "https://media.wired.com/photos/64838ea49a01d944fee35efc/191:100/w_1280,c_limit/9-Years-After-the-Mt.-Gox-Hack,-Feds-Indict-Alleged-Culprits-Security-GettyImages-1197093074.jpg",
+            "publishedAt": "2023-06-10T13:00:00Z",
+            "content": "Apple's Worldwide Developer's Conference this week included an array of announcements about operating system releases and, of course, the company's anticipated mixed-reality headset, Vision Pro. Appl… [+6306 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Maggie Chen",
+            "title": "Gentle Brain Stimulation Can Improve Memory During Sleep",
+            "description": "Stimulating the frontal lobes of sleeping epilepsy patients improved their recall of information—and may one day help treat Parkinson’s or Alzheimer’s.",
+            "url": "https://www.wired.com/story/brain-stimulation-improves-memory-sleep/",
+            "urlToImage": "https://media.wired.com/photos/648a09066279e364728445c0/191:100/w_1280,c_limit/sleeping_science_GettyImages-1438002791.jpg",
+            "publishedAt": "2023-06-14T18:41:20Z",
+            "content": "The researchers called this type of stimulation synced. They also tested another form of stimulation, called mixed-phase, where the electrode delivered pulses into the frontal lobe without regard to … [+3971 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tom Warren",
+            "title": "Microsoft now sells Surface replacement parts, including displays, batteries, and SSDs",
+            "description": "Microsoft is making it easier to replace Surface components. Surface owners can now purchase replacement parts direct from the Microsoft Store.",
+            "url": "https://www.theverge.com/2023/6/14/23761037/microsoft-surface-spare-replacement-parts-microsoft-store",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/7s8LHCkKg8blpc5hsU6ikQYNn4E=/0x0:1256x871/1200x628/filters:focal(628x436:629x437)/cdn.vox-cdn.com/uploads/chorus_asset/file/24727393/j74B6SM.png",
+            "publishedAt": "2023-06-14T17:44:02Z",
+            "content": "Microsoft now sells Surface replacement parts, including displays, batteries, and SSDs\r\nMicrosoft now sells Surface replacement parts, including displays, batteries, and SSDs\r\n / If you have a modern… [+2496 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "James Vincent",
+            "title": "Google’s EU launch of AI chatbot Bard delayed by privacy concerns",
+            "description": "Google’s AI chatbot Bard has yet to launch in EU, with a launch this week delayed by privacy concerns.",
+            "url": "https://www.theverge.com/2023/6/15/23761893/google-ai-chatbot-bard-eu-launch-delayed-privacy",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/JxGhmRUeoeMXndRlb7mqMtYaeRc=/245x81:1536x775/1200x628/filters:focal(885x511:886x512)/cdn.vox-cdn.com/uploads/chorus_asset/file/24524952/Image__2___Bard_is_an_experiment_image.jpg",
+            "publishedAt": "2023-06-15T11:46:52Z",
+            "content": "Googles EU launch of AI chatbot Bard delayed by privacy concerns\r\nGoogles EU launch of AI chatbot Bard delayed by privacy concerns\r\n / Google wanted to launch Bard in the EU this week but has to wait… [+2250 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jess Weatherbed",
+            "title": "Uber’s about to stick video ads in its cars, apps, and anywhere else it can",
+            "description": "Uber will soon start displaying up to 90-second-long video ads across its various services in the US, including Uber Eats, Drizly, and its namesake ride-hailing app",
+            "url": "https://www.theverge.com/2023/6/16/23763227/uber-video-advertising-ads-taxi-food-delivery-apps",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/rjZ2oadTbONKgJiTilllBAb80NI=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23932657/acastro_STK106__03.jpg",
+            "publishedAt": "2023-06-16T11:45:00Z",
+            "content": "Ubers about to stick video ads in its cars, apps, and anywhere else it can\r\nUbers about to stick video ads in its cars, apps, and anywhere else it can\r\n / We know where you are, we know where you are… [+2518 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Passant Rabie",
+            "title": "Webb Telescope Will Soon Get a Tiny Sidekick to Explore Alien Worlds",
+            "description": "For more than a year, the largest space-based telescope ever built has been observing the far ends of the cosmos with unprecedented detail. The Webb Space Telescope could soon get a little extra help in the form of a miniature satellite the size of a toaster …",
+            "url": "https://gizmodo.com/webb-telescope-tiny-sidekick-explore-exoplanets-1850529063",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/b5d9e7e7d1743102bc8d74788d1822d3.jpg",
+            "publishedAt": "2023-06-12T15:55:00Z",
+            "content": "For more than a year, the largest space-based telescope ever built has been observing the far ends of the cosmos with unprecedented detail. The Webb Space Telescope could soon get a little extra help… [+2483 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Brittany: France shooting suspect had been drinking and smoking cannabis",
+            "description": "Eleven-year-old Solaine Thornton was shot dead while playing on a swing in her garden on Saturday.",
+            "url": "https://www.bbc.co.uk/news/uk-65884594",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/83B3/production/_115651733_breaking-large-promo-nc.png",
+            "publishedAt": "2023-06-12T17:04:52Z",
+            "content": "The suspect held over the fatal shooting of an 11-year-old British girl in France has been placed under investigation for murder, police say.\r\nSolaine Thornton was shot dead while playing on a swing … [+1244 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Brittany: Girl, 11, from British family shot dead in France",
+            "description": "The girl's parents were also injured in the incident, which was reportedly after a dispute between neighbours.",
+            "url": "https://www.bbc.co.uk/news/world-europe-65874063",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/17454/production/_130061359_f98e3265-5ca2-4cda-98bd-194b34f89fe9-1.png",
+            "publishedAt": "2023-06-11T20:57:56Z",
+            "content": "An 11-year-old girl from a British family has been shot dead, following a reported dispute between neighbours in north-western France.\r\nFrench media said that the girl's parents were injured, and her… [+829 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Solar panels - an eco-disaster waiting to happen?",
+            "description": "A French factory is pioneering recycling of solar units as experts warn of a waste mountain by 2050.",
+            "url": "https://www.bbc.co.uk/news/science-environment-65602519",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2A05/production/_129875701_2220220310-galloohalluin-044.jpg",
+            "publishedAt": "2023-06-03T23:01:04Z",
+            "content": "While they are being promoted around the world as a crucial weapon in reducing carbon emissions, solar panels only have a lifespan of up to 25 years. \r\nExperts say billions of panels will eventually … [+6391 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Kai Havertz: Arsenal agree £65m deal with Chelsea for German forward",
+            "description": "Chelsea forward Kai Havertz is set to move to Premier League rivals Arsenal after the two clubs agree on a fee of around £65m.",
+            "url": "https://www.bbc.co.uk/sport/football/65972567",
+            "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/171F8/production/_130121749_whatsubject.jpg",
+            "publishedAt": "2023-06-21T13:53:06Z",
+            "content": "Kai Havertz joined Chelsea for £71m from Bayer Leverkusen in 2020\r\nArsenal have agreed a deal with Chelsea worth around £65m for Germany international forward Kai Havertz. \r\nIt is understood the club… [+1223 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Anatomy of a Fall: French thriller wins Cannes Film Festival Palme d'Or prize",
+            "description": "Filmmaker Justine Triet becomes the third female director ever to win the prestigious prize.",
+            "url": "https://www.bbc.co.uk/news/entertainment-arts-65736234",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/B732/production/_129889864_31b1c1c7fcc6d91ec751bf1ba2a96d3131ca59830_188_3972_22341000x563.jpg",
+            "publishedAt": "2023-05-27T23:18:57Z",
+            "content": "French murder mystery film Anatomy of a Fall has taken the top prize at this year's Cannes Film Festival. \r\nDirector Justine Triet won the Palme d'Or for her tense courtroom drama, which tells the st… [+2314 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Your pictures on the theme of 'bridges'",
+            "description": "A selection of striking images from our readers around the world.",
+            "url": "https://www.bbc.co.uk/news/in-pictures-65753973",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/181AE/production/_129943789_23.jpg",
+            "publishedAt": "2023-06-03T23:17:25Z",
+            "content": "We asked our readers to send in their best pictures on the theme of 'bridges'. Here is a selection of the photographs we received from around the world.\r\nImage source, Rob Goldsmith\r\nImage caption, R… [+4405 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Donald Trump still headline act for Republicans, despite charges",
+            "description": "The former US president appeared unfazed by his indictment at a party convention in North Carolina.",
+            "url": "https://www.bbc.co.uk/news/world-us-canada-65869992",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/CEEF/production/_130057925_26ee96c8fb960fce7bc3a4741dffd5aaa92361160_0_5000_33351000x667.jpg",
+            "publishedAt": "2023-06-11T07:17:41Z",
+            "content": "Former US President Donald Trump appeared defiant at two Republican Party conventions on Saturday, a day after he was charged with mishandling classified documents. \r\nMr Trump - who is running to be … [+4182 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Explorer's harrowing experience of being trapped at Titanic stern in 2000",
+            "description": "As search continues for a missing sub, Michael Guillen relives his near-death experience on a similar dive.",
+            "url": "https://www.bbc.co.uk/news/world-us-canada-65972686",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5B28/production/_130163332_gettyimages-2224802.jpg",
+            "publishedAt": "2023-06-21T12:38:15Z",
+            "content": "As a massive search continues for a missing tourist submersible with five people on board near the Titanic wreck, US journalist Michael Guillen recounts his harrowing experience of being trapped in a… [+5191 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Ukraine war: Wagner may be smuggling weapons from Mali - US",
+            "description": "The private Russian military group could be using African states to procure mines and other weapons.",
+            "url": "https://www.bbc.co.uk/news/world-africa-65719825",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/05A7/production/_129874410_mediaitem129874409.jpg",
+            "publishedAt": "2023-05-26T10:11:07Z",
+            "content": "Russian private military group Wagner may be operating via Mali and other African countries to hide its attempts to get military equipment for Moscow's war against Ukraine, US officials say.\r\nA Treas… [+2383 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Silvio Berlusconi's big footprint in Europe",
+            "description": "The three-time prime minister leaves an indelible stamp on his country and on the European continent as a whole.",
+            "url": "https://www.bbc.co.uk/news/world-europe-65886246",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/21B3/production/_130072680_gettyimages-108499839.jpg",
+            "publishedAt": "2023-06-13T05:19:01Z",
+            "content": "Flamboyant, controversial Silvio Berlusconi - a three-time prime minister and a key coalition partner in Italy's current government - was envied and admired, loathed and derided in equal measure for … [+3271 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Titanic tourist submersible: Huge effort to find vessel as air supply dwindles",
+            "description": "A tourist sub missing during a dive on the wreck of the Titanic has just over a day’s oxygen left.",
+            "url": "https://www.bbc.co.uk/news/world-us-canada-65969476",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/F812/production/_130160536_diverreuters2.jpg",
+            "publishedAt": "2023-06-21T03:00:56Z",
+            "content": "Media caption, Watch: What we know about the missing Titanic sub\r\nThe urgent search for a tourist submersible near the Titanic wreck is expanding to include more resources and rescue expertise from p… [+2872 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Canadian province of Quebec sees progress in wildfire battle",
+            "description": "Quebec has seen improvements in the last 48 hours but country's west coast warns fire challenges ahead.",
+            "url": "https://www.bbc.co.uk/news/world-us-canada-65864198",
+            "urlToImage": "https://static.files.bbci.co.uk/ws/simorgh-assets/public/news/images/metadata/poster-1024x576.png",
+            "publishedAt": "2023-06-10T02:28:53Z",
+            "content": "Quebec has made progress in its battle to fight wildfires that have contributed to the smoke that blanketed large parts of North America this week.\r\n\"We're really happy with the last 48 hours,\" said … [+3962 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Jennifer Ouellette",
+            "title": "Could these marks on a cave wall be oldest-known Neanderthal finger paintings?",
+            "description": "It's even more evidence that Neanderthals could think symbolically, create art.",
+            "url": "https://arstechnica.com/science/2023/06/could-these-marks-on-a-cave-wall-be-oldest-known-neanderthal-finger-paintings/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/neanderthal1-760x380.jpg",
+            "publishedAt": "2023-06-21T20:26:35Z",
+            "content": "Enlarge/ Examples of engravings discovered in the Roche-Cotard Cave in France. (left) A \"circular panel\" with arch-shaped tracings. (right) A \"wavy panel\" with two contiguous tracings forming sinuous… [+4050 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Jonathan M. Gitlin",
+            "title": "Here’s what happens when you send a NASCAR stock car to Le Mans",
+            "description": "Fears that the big V8-powered stock car would be slow proved very ill-founded.",
+            "url": "https://arstechnica.com/cars/2023/06/heres-what-happens-when-you-send-a-nascar-stock-car-to-le-mans/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/GettyImages-1495838998-760x380.jpg",
+            "publishedAt": "2023-06-05T15:52:14Z",
+            "content": "Enlarge/ The NASCAR/Hendrick Motorsports Chevrolet Camaro ZL1 leads a Ferrari 499P and assorted other racing cars at a test day at the Circuit de la Sarthe in Le Mans, France.\r\n15 with \r\nWhen Le Mans… [+3379 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "France confirms bird flu vaccination after favourable tests - Reuters",
+            "description": "France confirms bird flu vaccination after favourable tests  Reuters",
+            "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMigwFodHRwczovL3d3dy5yZXV0ZXJzLmNvbS9idXNpbmVzcy9oZWFsdGhjYXJlLXBoYXJtYWNldXRpY2Fscy9mcmFuY2UtY29uZmlybXMtYmlyZC1mbHUtdmFjY2luYXRpb24tYWZ0ZXItZmF2b3VyYWJsZS10ZXN0cy0yMDIzLTA1LTI2L9IBAA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+            "urlToImage": null,
+            "publishedAt": "2023-05-26T06:40:00Z",
+            "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+        }
+    ]
+}
+
+
