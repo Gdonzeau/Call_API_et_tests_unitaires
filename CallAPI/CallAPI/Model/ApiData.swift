@@ -10,5 +10,6 @@ import Foundation
 struct ApiData {
     static let url1 = "https://newsapi.org/v2/everything?q="
     static let url2 = "&sortBy=popularity&apiKey="
-    static let apiKey = "" // Inscrivez vous ici et insérez entre les gillements la clé que vous aurez obtenue : https://newsapi.org
+    #error("Inscrivez vous ici : https://newsapi.org et insérez entre les gillements la clé que vous aurez obtenue")
+    static let apiKey = ""
 }
